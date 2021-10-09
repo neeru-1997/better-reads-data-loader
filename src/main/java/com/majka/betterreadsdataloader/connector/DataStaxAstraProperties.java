@@ -1,4 +1,4 @@
-package connection;
+package com.majka.betterreadsdataloader.connector;
 
 import java.io.File;
 
